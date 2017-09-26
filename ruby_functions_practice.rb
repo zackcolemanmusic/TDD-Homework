@@ -14,3 +14,7 @@ end
 def multiply(four, two)
   return (4 * 2)
 end
+
+def divide(ten, two)
+  return (10 / 2)
+end
